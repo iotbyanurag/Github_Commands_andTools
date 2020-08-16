@@ -1,0 +1,134 @@
+    1  git --version
+    2  pwd
+    3  cd Desktop/
+    4  cd Udemy_Courses/Web_Development/
+    5  ls
+    6  cd My_Created_Projects
+    7  git init
+    8  git config --global user.nam 'anurag tiwari'
+    9  git config --global user.name "anurag tiwari"
+   10  git config --global user.email "iotbyanurag@gmail.com"
+   11  git config --list --show-origin
+   12  vi C:/Users/anura/.gitconfig
+   13  vi C:/Users/anura/.gitconfig
+   14  git config --list
+   15  git status
+   16  git add .
+   17  git status
+   18  git status
+   19  git add .
+   20  git status
+   21  git commit
+   22  git commit
+   23  git status
+   24  touch .gitignore
+   25  ls -ltr
+   26  vi .gitignore 
+   27  git status
+   28  git commit
+   29  vi .gitignore 
+   30  git status
+   31  git add.
+   32  git add .
+   33  git status
+   34  git commit
+   35  git remote
+   36  git remote add origin https://github.com/iotbyanurag/WebDevelopment.git
+   37  git remote
+   38  git push -u origin master
+   39  touch README.md
+   40  ls
+   41  vi README.md 
+   42  git add .
+   43  git commit
+   44  git status
+   45  git push
+   46  vi README.md 
+   47  git add .
+   48  git commit
+   49  git status
+   50  git push
+   51  cd 
+   52  pwd
+   53  cd Desktop/
+   54  mkdir TEST
+   55  ls 
+   56  cd TEST/
+   57  ls -ltr
+   58  git clone https://github.com/iotbyanurag/WebDevelopment.git
+   59  cd ..
+   60  ls -ltr
+   61  cd Udemy_Courses/Web_Development/
+   62  ls
+   63  ls -la
+   64  cd My_Created_Projects
+   65  ls -la
+   66  ls 
+   67  git init
+   68  git add .
+   69  git clone https://github.com/NehemiahK/JavaScript-Calculator.git
+   70  pwd
+   71  cd Desktop/
+   72  cd Udemy_Courses/Web_Development/
+   73  git add .
+   74  git status
+   75  git commit
+   76  git status
+   77  git push
+   78  git add .
+   79  git status
+   80  git commit
+   81  git push
+   82  git add .
+   83  git status
+   84  git commit
+   85  git push
+   86  git add .
+   87  git status
+   88  git commit
+   89  git push
+   90  pwd
+   91  cd Desktop/Udemy_Courses/Web_Development/
+   92  pwd
+   93  ls
+   94  cd WebDev_Projects/
+   95  ls
+   96  git clone https://github.com/iotbyanurag/Game-MarketPlace.io.git
+   97  git init
+   98  ls
+   99  cd Game-MarketPlace.io/
+  100  ls
+  101  git init
+  102  git add .
+  103  git status
+  104  git commit
+  105  git push
+  106  ls
+  107  cd Desktop/Udemy_Courses/Web_Development/
+  108  ls
+  109  cd WebDev_Projects/
+  110  ls
+  111  cd Game-MarketPlace.io/
+  112  git add .
+  113  git status
+  114  git commit
+  115  git push
+  116  git add .
+  117  git status
+  118  git commit
+  119  git push
+  120  ls
+  121  history
+  122  cd C:\Users\anura\Desktop
+  123  cd C:/
+  124  ls
+  125  cd users
+  126  ls
+  127  cd anura/
+  128  ls
+  129  ls
+  130  cd Desktop/
+  131  ls
+  132  cd Git_commands_andTools/
+  133  ls
+  134  history>git_commands.txt
