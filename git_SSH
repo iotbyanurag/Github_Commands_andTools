@@ -1,0 +1,11 @@
+
+
+
+_____To add SSH keys from system to github and use SSH protocol instead
+	 of HTTPS for git push and clone etc.____*****************__________
+
+	 ->  ssh-keygen -t rsa -b 4096 -C "iotbyanurag@gmail.com"
+     ->  eval $(ssh-agent -s)
+     ->  ssh-add /c/Users/anura/.ssh/id_rsa
+     ->  clip < /c/Users/anura/.ssh/id_rsa.pub
+     ->  git clone git@github.com:iotbyanurag/GameDev.git
